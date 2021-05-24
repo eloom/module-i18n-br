@@ -3282,7 +3282,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Proceed to Checkout","Finalizar compra",module,Magento_Checkout
 "Product Name","Nome do produto",module,Magento_Checkout
 "Incl. Tax","Imposto Incl.",module,Magento_Checkout
-"Your order number is: ""%1"".","O número do seu pedido é: ""%1"".",module,Magento_Checkout
+"Your order number is: %1.","O número do seu pedido é: %1.",module,Magento_Checkout
 "Your order # is: <span>%1</span>.","O número do seu pedido é #: <span>%1</span>.",module,Magento_Checkout
 "We\'ll email you an order confirmation with details and tracking info.","Enviaremos a você um email de confirmação do seu pedido com detalhes e informações de rastreamento.",module,Magento_Checkout
 "Payment Transaction Failed Reminder","Transação de pagamento Falha Reminder",module,Magento_Checkout
@@ -7600,7 +7600,7 @@ Atualmente, seu saldo pendente totaliza %outstanding_balance. Você está com %e
 "Mode","Modo",module,Magento_Indexer
 "Status","Status",module,Magento_Indexer
 "Updated","Atualizado",module,Magento_Indexer
-"Your order number is: ""%1"".","O número do seu pedido é: ""%1"".",module,Magento_InstantPurchase
+"Your order number is: %1.","O número do seu pedido é: %1.",module,Magento_InstantPurchase
 "Something went wrong while processing your order. Please try again later.","Problema ao processar o pedido. Por favor, tente novamente mais tarde.",module,Magento_InstantPurchase
 "Payment method is not defined for instance purchase.","O método de pagamento não está definido para compra.",module,Magento_InstantPurchase
 "Shipping address is not defined for instance purchase.","O método de pagamento não está definido para compra.",module,Magento_InstantPurchase
