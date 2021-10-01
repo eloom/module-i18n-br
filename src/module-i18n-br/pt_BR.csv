@@ -4694,6 +4694,7 @@ Atualmente, seu saldo pendente totaliza %outstanding_balance. Você está com %e
 "Alphanumeric with spaces","Alphanumeric with spaces",module,Magento_CustomAttributeManagement
 "Sign Out","Sair",module,Magento_Customer
 "Sign In","Entrar",module,Magento_Customer
+"Show Password","Mostrar senha",module,Magento_Customer
 "You are subscribed to our newsletter.","Você está inscrito na nossa Newsletter.",module,Magento_Customer
 "You aren't subscribed to our newsletter.","Você não está inscrito na nossa Newsletter.",module,Magento_Customer
 "You have not set a default shipping address.","Você não definiu um endereço de envio padrão.",module,Magento_Customer
