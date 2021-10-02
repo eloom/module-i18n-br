@@ -3044,7 +3044,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Modify your search.","Modifique a sua pesquisa.",module,Magento_CatalogSearch
 "name","nome",module,Magento_CatalogSearch
 "Don't see what you're looking for?","Não achou o que você está procurando?",module,Magento_CatalogSearch
-"Your search returned no results.","A sua pesquisa não retornou resultados.",module,Magento_CatalogSearch
+"Your search returned no results.","Não encontramos o que você procura.",module,Magento_CatalogSearch
 "Catalog Section","Secção de catálogo",module,Magento_CatalogSearch
 "Catalog Search","Busca de Catálogo",module,Magento_CatalogSearch
 "Popular Search Terms","Pesquisas Populares",module,Magento_CatalogSearch
@@ -4695,6 +4695,9 @@ Atualmente, seu saldo pendente totaliza %outstanding_balance. Você está com %e
 "Sign Out","Sair",module,Magento_Customer
 "Sign In","Entrar",module,Magento_Customer
 "Show Password","Mostrar senha",module,Magento_Customer
+"Add New Card","Adicionar novo cartão",module,Magento_Customer
+"Save Card","Salvar cartão",module,Magento_Customer
+"Please, enter valid Credit Card Number","Por favor insira um Número de Cartão de Crédito válido",module,Magento_Customer
 "You are subscribed to our newsletter.","Você está inscrito na nossa Newsletter.",module,Magento_Customer
 "You aren't subscribed to our newsletter.","Você não está inscrito na nossa Newsletter.",module,Magento_Customer
 "You have not set a default shipping address.","Você não definiu um endereço de envio padrão.",module,Magento_Customer
@@ -7186,7 +7189,7 @@ Atualmente, seu saldo pendente totaliza %outstanding_balance. Você está com %e
 "Location","Localização",module,Magento_GiftRegistry
 "Actions","Ações",module,Magento_GiftRegistry
 "View","Visualizar",module,Magento_GiftRegistry
-"Your search returned no results.","A sua pesquisa não retornou resultados.",module,Magento_GiftRegistry
+"Your search returned no results.","Não encontramos o que você procura.",module,Magento_GiftRegistry
 "Please enter at least two letters of the name.","Por favor, insira pelo menos duas letras no nome.",module,Magento_GiftRegistry
 "Search By","Pesquisar por",module,Magento_GiftRegistry
 "Please enter at least two letters.","Por favor, insira pelo menos duas letras.",module,Magento_GiftRegistry
@@ -8536,7 +8539,7 @@ List,List,module,Magento_InventoryAdminUi
 "Wish List Name","Nome da lista de desejos",module,Magento_MultipleWishlist
 "Actions","Ações",module,Magento_MultipleWishlist
 "View","Visualizar",module,Magento_MultipleWishlist
-"Your search returned no results.","A sua pesquisa não retornou resultados.",module,Magento_MultipleWishlist
+"Your search returned no results.","Não encontramos o que você procura.",module,Magento_MultipleWishlist
 "Wish List","Lista de Desejos",module,Magento_MultipleWishlist
 "Create Wish List","Criar Lista de Desejos",module,Magento_MultipleWishlist
 "Edit Wish List","Alterar lista de desejos",module,Magento_MultipleWishlist
