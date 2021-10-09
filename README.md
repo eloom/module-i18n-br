@@ -1,4 +1,4 @@
-# Pacote de tradução Português Brasil para Magento 2
+# Pacote de tradução Português Brasil para Magento
 
 Este pacote de tradução para Português do Brasil substitui o termo "carrinho de compra" por "sacola de compra".
 
