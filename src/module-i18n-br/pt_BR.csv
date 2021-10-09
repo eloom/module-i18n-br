@@ -7915,11 +7915,11 @@ List,List,module,Magento_InventoryAdminUi
 "Skip quantity at this time","Skip quantity at this time",module,Magento_InventoryConfigurableProductAdminUi
 "Step 4: Summary","Step 4: Summary",module,Magento_InventoryConfigurableProductAdminUi
 "The requested sku is not assigned to given stock.","The requested sku is not assigned to given stock.",module,Magento_InventoryConfiguration
-"Driving","Dirigndo",module,Magento_InventoryDistanceBasedSourceSelectionAdminUi
+"Driving","Dirigindo",module,Magento_InventoryDistanceBasedSourceSelectionAdminUi
 "Walking","Caminhando",module,Magento_InventoryDistanceBasedSourceSelectionAdminUi
 "Bicycling","Ciclismo",module,Magento_InventoryDistanceBasedSourceSelectionAdminUi
-"Distance","Dstância",module,Magento_InventoryDistanceBasedSourceSelectionAdminUi
-"Time to destination","Time to destination",module,Magento_InventoryDistanceBasedSourceSelectionAdminUi
+"Distance","Distância",module,Magento_InventoryDistanceBasedSourceSelectionAdminUi
+"Time to destination","Tempo para o destino",module,Magento_InventoryDistanceBasedSourceSelectionAdminUi
 "No such distance provider: %1","No such distance provider: %1",module,Magento_InventoryDistanceBasedSourceSelectionApi
 "No such latitude and longitude from address provider: %1","No such latitude and longitude from address provider: %1",module,Magento_InventoryDistanceBasedSourceSelectionApi
 "No destination address was provided in the request","No destination address was provided in the request",module,Magento_InventoryDistanceBasedSourceSelection
