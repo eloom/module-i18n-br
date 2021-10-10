@@ -1933,7 +1933,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "You cleared the comparison list.","Você limpou a lista de comparação.",module,Magento_Catalog
 "Something went wrong  clearing the comparison list.","Algo deu errado ao limpar a lista de comparação.",module,Magento_Catalog
 "You removed product %1 from the comparison list.","Você removeu o produto %1 da lista de comparação.",module,Magento_Catalog
-"1 item","1 artigo",module,Magento_Catalog
+"1 item","1 item",module,Magento_Catalog
 "%1 items","%1 itens",module,Magento_Catalog
 "Are you sure you want to remove this item from your Compare Products list?","Tem certeza que deseja remover todos os itens da sua lista de comparação de produtos?",module,Magento_Catalog
 "Are you sure you want to remove all items from your Compare Products list?","Tem certeza que deseja remover todos os itens da sua lista de comparação de produtos?",module,Magento_Catalog
@@ -2303,7 +2303,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Check items to add to the cart or","Verifique itens para adicionar na sacola ou",module,Magento_Catalog
 "select all","selecionar tudo",module,Magento_Catalog
 "Items %1-%2 of %3","Itens %1-%2 de %3",module,Magento_Catalog
-"%1 Item","%1 artigo",module,Magento_Catalog
+"%1 Item","%1 item",module,Magento_Catalog
 "%1 Items","%1 itens",module,Magento_Catalog
 "Show","Mostrar",module,Magento_Catalog
 "per page","por página",module,Magento_Catalog
@@ -3237,7 +3237,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Unable to save shipping information. Please check input data.","Não foi possível salvar as informações de envio. Por favor, verifique os dados informados.",module,Magento_Checkout
 "Carrier with such method not found: %1, %2","Transportador com esse método não encontrado: %1, %2",module,Magento_Checkout
 "Shipping method is not applicable for empty cart","Método de envio não aplicável para sacola de compras vazia",module,Magento_Checkout
-" item"," artigo",module,Magento_Checkout
+" item"," item",module,Magento_Checkout
 " items"," itens",module,Magento_Checkout
 "Totals calculation is not applicable to empty cart","Não é possível calcular o total, a sacola está vazia",module,Magento_Checkout
 "Invalid data","Dados inválidos",module,Magento_Checkout
@@ -3377,7 +3377,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Imprimir</a>",module,Magento_Checkout
 "Forgot Password","Esqueci a senha",module,Magento_Checkout
 "Close","Fechar",module,Magento_Checkout
-"item","artigo",module,Magento_Checkout
+"item","item",module,Magento_Checkout
 "items","itens",module,Magento_Checkout
 "Go to Checkout","Finalizar compra",module,Magento_Checkout
 "Recently added item(s)","Itens recém adicionados",module,Magento_Checkout
@@ -8234,7 +8234,7 @@ List,List,module,Magento_InventoryAdminUi
 "Position","Posição",module,Magento_LayeredNavigation
 "Position in Layered Navigation","Posição na Navegação em Camadas",module,Magento_LayeredNavigation
 "Position of attribute in layered navigation block.","Posição de atributo no bloco de navegação em camadas.",module,Magento_LayeredNavigation
-"item","artigo",module,Magento_LayeredNavigation
+"item","item",module,Magento_LayeredNavigation
 "items","produtos encontrados",module,Magento_LayeredNavigation
 "Now Shopping by","Filtrando por",module,Magento_LayeredNavigation
 "Previous","Anterior",module,Magento_LayeredNavigation
@@ -9355,7 +9355,7 @@ You can set a new expiration date if you wish.",module,Magento_NegotiableQuote
 "Instructions","Instruções",module,Magento_OfflinePayments
 "Cash On Delivery Payment","Pagamento na entrega",module,Magento_OfflinePayments
 "Zero Subtotal Checkout","Checkout com Subtotal Zero",module,Magento_OfflinePayments
-"Automatically Invoice All Items","Facturar Automaticamente Todos os Artigos",module,Magento_OfflinePayments
+"Automatically Invoice All Items","Facturar Automaticamente Todos os itens",module,Magento_OfflinePayments
 "Purchase order number is a required field.","Número do pedido de compra é um campo obrigatório.",module,Magento_OfflinePayments
 "Country","País",module,Magento_OfflineShipping
 "Region/State","Região/estado",module,Magento_OfflineShipping
@@ -9887,7 +9887,7 @@ You can set a new expiration date if you wish.",module,Magento_NegotiableQuote
 "quantity","quantidade",module,Magento_Reminder
 "base price","preço base",module,Magento_Reminder
 "base cost","base de custo",module,Magento_Reminder
-"Item %1 %2 %3:","Artigo %1 %2 %3:",module,Magento_Reminder
+"Item %1 %2 %3:","Item %1 %2 %3:",module,Magento_Reminder
 "Unknown attribute specified","O atributo especificado é desconhecido",module,Magento_Reminder
 "Items Subselection","Sub-seleção de Itens",module,Magento_Reminder
 "Coupon Code","Código do cupom",module,Magento_Reminder
@@ -10246,7 +10246,7 @@ You can set a new expiration date if you wish.",module,Magento_NegotiableQuote
 "Rename","Renomear",module,Magento_RequisitionList
 "Rename Requisition List","Renomear a lista de requisições",module,Magento_RequisitionList
 "items","itens",module,Magento_RequisitionList
-"item","artigo",module,Magento_RequisitionList
+"item","item",module,Magento_RequisitionList
 "in requisition list","na lista de requisições",module,Magento_RequisitionList
 "Contact Us","Fale Conosco",module,Magento_RequisitionList
 "Add to Cart","Comprar",module,Magento_RequisitionList
@@ -11428,7 +11428,7 @@ You can set a new expiration date if you wish.",module,Magento_NegotiableQuote
 "Please enter a Transaction ID.","Por favor, digite o ID de transação.",module,Magento_Sales
 "You can't do this without a transaction object.","Você não pode fazer isso sem o objeto de transação.",module,Magento_Sales
 "Order # ","Pedido # ",module,Magento_Sales
-"Order Date: ","Data do pedido: ",module,Magento_Sales
+"Order Date:","Data do pedido:",module,Magento_Sales
 "Sold to:","Vendido para:",module,Magento_Sales
 "Ship to:","Enviar para:",module,Magento_Sales
 "Payment Method:","Forma de pagamento:",module,Magento_Sales
@@ -11614,7 +11614,7 @@ You can set a new expiration date if you wish.",module,Magento_NegotiableQuote
 "Shipping &amp; Handling","Envio &amp; Manuseio",module,Magento_Sales
 "Gift Options","Opções de presente",module,Magento_Sales
 "Create Shipment","Criar o carregamento",module,Magento_Sales
-"Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Tipos de nota fiscal e remessa não coincidem para alguns artigos sobre esta ordem. Você pode criar um carregamento somente após a criação da factura.",module,Magento_Sales
+"Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Tipos de nota fiscal e remessa não coincidem para alguns itens sobre esta ordem. Você pode criar um carregamento somente após a criação da factura.",module,Magento_Sales
 "%1","%1",module,Magento_Sales
 "Qty to Invoice","Quantidade para faturar",module,Magento_Sales
 "Invoice History","Histórico de Faturas",module,Magento_Sales
@@ -13920,7 +13920,7 @@ Select a different range to add a new Future Update.","Atualização Futura já 
 "For the best experience on our site, be sure to turn on Local Storage in your browser.","Para uma melhor experiência em nosso site, se certifique de ativar o Local Storage no seu navegador.",module,Magento_Theme
 "This is demo store. No orders will be fulfilled.","Esta é uma loja de demonstração. Nenhum pedido será gerado.",module,Magento_Theme
 "Items %1 to %2 of %3 total","Itens %1 a %2 do total de %3",module,Magento_Theme
-"%1 Item","%1 artigo",module,Magento_Theme
+"%1 Item","%1 item",module,Magento_Theme
 "%1 Item(s)","%1 Item (ns)",module,Magento_Theme
 "Page","Página",module,Magento_Theme
 "Previous","Anterior",module,Magento_Theme
@@ -15264,7 +15264,7 @@ Select a different range to add a new Future Update.","Atualização Futura já 
 "The requested Wish List doesn't exist.","A Lista de Desejos solicitada não existe.",module,Magento_Wishlist
 "We can't create the Wish List right now.","Não podemos criar a Lista de Desejos agora.",module,Magento_Wishlist
 "%1 items","%1 itens",module,Magento_Wishlist
-"1 item","1 artigo",module,Magento_Wishlist
+"1 item","1 item",module,Magento_Wishlist
 "Comment","Comente",module,Magento_Wishlist
 "Display number of items in wish list","Mostrar o número de itens na lista de desejos",module,Magento_Wishlist
 "Display item quantities","Exibir quantidades do item",module,Magento_Wishlist
