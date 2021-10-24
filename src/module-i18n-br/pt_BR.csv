@@ -613,8 +613,8 @@
 "Are you sure you want to do this?","Deseja realmente fazer isso?",module,Magento_Backend
 "Add New Image","Adicionar Nova Imagem",module,Magento_Backend
 "Export block for grid ""%1"" is not defined","Bloco de exportação para a grid ""%1"" não foi definido",module,Magento_Backend
-"Reset Filter","Limpar Filtro",module,Magento_Backend
-"Search","Pesquisa",module,Magento_Backend
+"Reset Filter","Limpar filtro",module,Magento_Backend
+"Search","Pesquisar",module,Magento_Backend
 "Any","Qualquer",module,Magento_Backend
 "All Countries","Todos os Países",module,Magento_Backend
 "From","De",module,Magento_Backend
@@ -2004,7 +2004,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 não se estende \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 não se estende a \Magento\Catalog\Model\Layer\Filter\AbstractFilter",module,Magento_Catalog
 "The filter must be an object. Please set the correct filter.","O filtro deve ser um objeto. Por favor, defina o filtro corretamente.",module,Magento_Catalog
-"Clear Price","Limpar Preço",module,Magento_Catalog
+"Clear Price","Limpar preço",module,Magento_Catalog
 "%1 and above","%1 e acima",module,Magento_Catalog
 "The filters must be an array.","Os filtros devem ser uma matriz.",module,Magento_Catalog
 "Product was not registered","Produto não foi registrado",module,Magento_Catalog
@@ -2099,7 +2099,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 não se estende a \Magento\Catalog\Model\Product\Type\AbstractType",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price","%1 não se estende a \Magento\Catalog\Model\Product\Type\Price",module,Magento_Catalog
 "Not Visible Individually","Não Visível Individualmente",module,Magento_Catalog
-"Search","Pesquisa",module,Magento_Catalog
+"Search","Pesquisar",module,Magento_Catalog
 "Catalog, Search","Catálogo, Pesquisa",module,Magento_Catalog
 "Something went wrong while removing products from the websites.","Problema ao remover produtos dos websites.",module,Magento_Catalog
 "Something went wrong while adding products to websites.","Problema ao adicionar produtos ao website.",module,Magento_Catalog
@@ -7182,7 +7182,7 @@ Atualmente, seu saldo pendente totaliza %outstanding_balance. Você está com %e
 "Search Options","Opções de pesquisa",module,Magento_GiftRegistry
 "For better search results, first choose a gift registry type. By default, we search all registry types.","Para obter melhores resultados de pesquisa, escolha primeiro um tipo de lista de ofertas. Pesquisamos todos os tipos de registo por pré-definição.",module,Magento_GiftRegistry
 "Type Specific Options","Opções específicas do tipo",module,Magento_GiftRegistry
-"Search","Pesquisa",module,Magento_GiftRegistry
+"Search","Pesquisar",module,Magento_GiftRegistry
 "Registrant Email","Email do Registante",module,Magento_GiftRegistry
 "Gift Registry ID","ID da Lista de Oferta",module,Magento_GiftRegistry
 "Search Results","Resultados da busca",module,Magento_GiftRegistry
@@ -7862,7 +7862,10 @@ List,List,module,Magento_InventoryAdminUi
 "Unassign the origin source from selected products after transfer.","Unassign the origin source from selected products after transfer.",module,Magento_InventoryCatalogAdminUi
 "Select one or more sources","Select one or more sources",module,Magento_InventoryCatalogAdminUi
 "WARNING:","WARNING:",module,Magento_InventoryCatalogAdminUi
-"Products quantity will be permanently removed from selected sources.","Products quantity will be permanently removed from selected sources.",module,Magento_InventoryCatalogAdminUi
+"Assign Inventory Source","Atribuir fonte de estoque",module,Magento_InventoryCatalogAdminUi
+"Unassign Inventory Source","Cancelar atribuição de fonte de estoque",module,Magento_InventoryCatalogAdminUi
+"Transfer Inventory To Source","Transferir estoque para a fonte",module,Magento_InventoryCatalogAdminUi
+"Products quantity will be permanently removed from selected sources.","A quantidade de produtos será removida permanentemente das fontes selecionadas.",module,Magento_InventoryCatalogAdminUi
 "Source Validator must implement BulkInventoryTransferValidatorInterface.","Source Validator must implement BulkInventoryTransferValidatorInterface.",module,Magento_InventoryCatalogApi
 "Source Validator must implement AssignValidatorInterface.","Source Validator must implement AssignValidatorInterface.",module,Magento_InventoryCatalogApi
 "Source Validator must implement MassUnassignValidatorInterface.","Source Validator must implement MassUnassignValidatorInterface.",module,Magento_InventoryCatalogApi
@@ -8009,8 +8012,8 @@ List,List,module,Magento_InventoryAdminUi
 "%field can not be null.","%field can not be null.",module,Magento_InventoryReservations
 "All unassigned sales channels will be assigned to the Default Stock","All unassigned sales channels will be assigned to the Default Stock",module,Magento_InventorySalesAdminUi
 "%1 doesn't implement GetSourceDeductedOrderItemsInterface","%1 doesn't implement GetSourceDeductedOrderItemsInterface",module,Magento_InventorySalesApi
-"The product that was requested doesn't exist. Verify the product and try again.","The product that was requested doesn't exist. Verify the product and try again.",module,Magento_InventorySales
-"Can't check requested quantity for products without Source Items support.","Can't check requested quantity for products without Source Items support.",module,Magento_InventorySales
+"The product that was requested doesn't exist. Verify the product and try again.","O produto solicitado não existe. Verifique o produto e tente novamente.",module,Magento_InventorySales
+"Can't check requested quantity for products without Source Items support.","Não é possível verificar a quantidade solicitada para produtos sem suporte a itens de origem.",module,Magento_InventorySales
 "No linked stock found","No linked stock found",module,Magento_InventorySales
 "We don't have as many quantity as you requested, but we'll back order the remaining %1.","We don't have as many quantity as you requested, but we'll back order the remaining ""%1"".",module,Magento_InventorySales
 "Parameter ""object"" must be present.","Parameter ""object"" must be present.",module,Magento_InventorySales
@@ -8534,7 +8537,7 @@ List,List,module,Magento_InventoryAdminUi
 "Required Fields","Informações obrigatórias",module,Magento_MultipleWishlist
 "First Name","Nome",module,Magento_MultipleWishlist
 "Last Name","Sobrenome",module,Magento_MultipleWishlist
-"Search","Pesquisa",module,Magento_MultipleWishlist
+"Search","Pesquisar",module,Magento_MultipleWishlist
 "Search Results","Resultados da busca",module,Magento_MultipleWishlist
 "Wish List Name","Nome da lista de desejos",module,Magento_MultipleWishlist
 "Actions","Ações",module,Magento_MultipleWishlist
@@ -11693,7 +11696,7 @@ You can set a new expiration date if you wish.",module,Magento_NegotiableQuote
 "Gift Message for This Order","Mensagem de presente para este pedido",module,Magento_Sales
 "Recently Ordered","Pedidos feitos recentemente",module,Magento_Sales
 "Add to Cart","Comprar",module,Magento_Sales
-"Search","Pesquisa",module,Magento_Sales
+"Search","Pesquisar",module,Magento_Sales
 "Credit memo for your %store_name order","Nota de crédito para o seu pedido %store_name",module,Magento_Sales
 "%name,","%name,",module,Magento_Sales
 "Thank you for your order from %store_name.","Obrigado pelo seu pedido na loja %store_name.",module,Magento_Sales
@@ -12365,7 +12368,7 @@ You can set a new expiration date if you wish.",module,Magento_NegotiableQuote
 "Reset","Reiniciar",module,Magento_Search
 "Save and Continue Edit","Salvar e Continuar a Alterar",module,Magento_Search
 "Save Synonym Group","Gravar Grupo de Sinónimos",module,Magento_Search
-"Search","Pesquisa",module,Magento_Search
+"Search","Pesquisar",module,Magento_Search
 "Add New Search Term","Adicionar Novo Termo de Pesquisa",module,Magento_Search
 "Save Search","Salvar busca",module,Magento_Search
 "Delete Search","Excluir pesquisa",module,Magento_Search
@@ -14175,46 +14178,46 @@ Select a different range to add a new Future Update.","Atualização Futura já 
 "Select Items","Selecionar Itens",module,Magento_Ui
 "Actions","Ações",module,Magento_Ui
 "Select","Selecione",module,Magento_Ui
-"Save View As...","Save View As...",module,Magento_Ui
+"Save View As...","Salvar visão como...",module,Magento_Ui
 "Submit","Enviar",module,Magento_Ui
 "Delete","Excluir",module,Magento_Ui
 "Edit","Alterar",module,Magento_Ui
 "Columns","Colunas",module,Magento_Ui
 "Reset","Reiniciar",module,Magento_Ui
 "Apply","Aplicar",module,Magento_Ui
-"All in column","All in column",module,Magento_Ui
-"Record contains unsaved changes.","Record contains unsaved changes.",module,Magento_Ui
+"All in column","Todos na coluna",module,Magento_Ui
+"Record contains unsaved changes.","O registro contém alterações não salvas.",module,Magento_Ui
 "Export","Exportar",module,Magento_Ui
-"Active filters:","Active filters:",module,Magento_Ui
+"Active filters:","Filtros ativos:",module,Magento_Ui
 "Remove","Remover",module,Magento_Ui
-"Clear all","Clear all",module,Magento_Ui
-"Advanced filter","Advanced filter",module,Magento_Ui
-"Apply Filters","Apply Filters",module,Magento_Ui
+"Clear all","Limpar todos",module,Magento_Ui
+"Advanced filter","Filtros avançados",module,Magento_Ui
+"Apply Filters","Aplicar filtros",module,Magento_Ui
 "We couldn't find any records.","Não encontramos nenhum registro.",module,Magento_Ui
 "Save","Salvar",module,Magento_Ui
 "Custom","Personalizado",module,Magento_Ui
 "per page","por página",module,Magento_Ui
-"Search","Pesquisa",module,Magento_Ui
+"Search","Pesquisar",module,Magento_Ui
 "Please enter 6 or more characters. Leading or trailing spaces will be ignored.","Por favor use 6 ou mais caracteres. Espaços no início e fim serão ignorados.",module,Magento_Ui
 "ui/grid/filters/elements/select","ui/grid/filtros/elementos/selecionar",module,Magento_Ui
 "Please enter a quantity greater than 0.","Please enter a quantity greater than 0.",module,Magento_Ui
 "The fewest you may purchase is %1.","O mínimo que você pode comprar é %1.",module,Magento_Ui
 "The maximum you may purchase is %1.","The maximum you may purchase is %1.",module,Magento_Ui
 "You can buy this product only in quantities of %1 at a time.","Você pode comprar este produto apenas em quantidades de %1 de cada vez.",module,Magento_Ui
-"First character must be letter.","First character must be letter.",module,Magento_Ui
+"First character must be letter.","O primeiro caractere deve ser uma letra.",module,Magento_Ui
 "If enabled, can be used by functional tests for extended reporting","Se ativo, pode ser usado por testes funcionais para relatórios estendidos",module,Magento_Ui
 "Use this key to retrieve collected js errors","Usar essa chave para recuperar erros de Js encontrados",module,Magento_Ui
 "The configuration parameter formElement is a required for ' . . ' field.","The configuration parameter formElement is a required for ' . . ' field.",module,Magento_Ui
 "'Remove ' .","'Remove ' .",module,Magento_Ui
-"'Add New ' .","'Add New ' .",module,Magento_Ui
-"'New ' .","'New ' .",module,Magento_Ui
-"The file upload field is disabled.","The file upload field is disabled.",module,Magento_Ui
-"No marginal white space please","No marginal white space please",module,Magento_Ui
-"Please enter a valid percentage discount value greater than 0.","Please enter a valid percentage discount value greater than 0.",module,Magento_Ui
+"'Add New ' .","'Adicionar novo ' .",module,Magento_Ui
+"'New ' .","'Novo ' .",module,Magento_Ui
+"The file upload field is disabled.","O campo de upload de arquivo está desabilitado.",module,Magento_Ui
+"No marginal white space please","Sem espaço em branco, por favor",module,Magento_Ui
+"Please enter a valid percentage discount value greater than 0.","Insira um valor de desconto percentual válido maior que 0.",module,Magento_Ui
 "Please enter a value less than or equal to %s.","Por favor, insira um valor menor ou igual a %s.",module,Magento_Ui
 "Please enter a value greater than or equal to %s.","Por favor, insira um valor maior ou igual a %s.",module,Magento_Ui
-"Insert Images...","Insert Images...",module,Magento_Ui
-"The formElement configuration parameter is required for the %1 field.","The formElement configuration parameter is required for the %1 field.",module,Magento_Ui
+"Insert Images...","Inserir imagens...",module,Magento_Ui
+"The formElement configuration parameter is required for the %1 field.","O parâmetro de configuração formElement é necessário para o campo %1.",module,Magento_Ui
 "An item needs to be selected. Select and try again.","Um item precisa ser selecionado. Selecione e tente novamente.",module,Magento_Ui
 "'The XML in file %1 is invalid:' . \n%2\nVerify the XML and try again.","'O XML no arquivo %1 é inválido:'. \n%2\n Verifique o XML e tente novamente.",module,Magento_Ui
 "'The XML in file %1 is invalid.' . \n%2\nVerify the XML and try again.","'The XML in file %1 is invalid.' . \n%2\nVerify the XML and try again.",module,Magento_Ui
