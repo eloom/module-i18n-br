@@ -12360,14 +12360,14 @@ You can set a new expiration date if you wish.",module,Magento_NegotiableQuote
 "Results","Resultados",module,Magento_Search
 "Uses","Usos",module,Magento_Search
 "Search Terms","Termos de Pesquisa",module,Magento_Search
-"Search Synonyms","Pesquisar Sinónimos",module,Magento_Search
-"New Synonym Group","Novo Grupo de Sinónimos",module,Magento_Search
+"Search Synonyms","Pesquisar Sinônimos",module,Magento_Search
+"New Synonym Group","Novo Grupo de Sinônimos",module,Magento_Search
 "Back","Voltar",module,Magento_Search
-"Delete Synonym Group","Excluir Grupo de Sinónimos",module,Magento_Search
-"Are you sure you want to delete this synonym group?","Deseja realmente excluir este grupo de sinónimos?",module,Magento_Search
+"Delete Synonym Group","Excluir Grupo de Sinônimos",module,Magento_Search
+"Are you sure you want to delete this synonym group?","Deseja realmente excluir este grupo de sinônimos?",module,Magento_Search
 "Reset","Reiniciar",module,Magento_Search
 "Save and Continue Edit","Salvar e Continuar a Alterar",module,Magento_Search
-"Save Synonym Group","Gravar Grupo de Sinónimos",module,Magento_Search
+"Save Synonym Group","Gravar Grupo de Sinônimos",module,Magento_Search
 "Search","Pesquisar",module,Magento_Search
 "Add New Search Term","Adicionar Novo Termo de Pesquisa",module,Magento_Search
 "Save Search","Salvar busca",module,Magento_Search
@@ -12387,19 +12387,19 @@ You can set a new expiration date if you wish.",module,Magento_NegotiableQuote
 "Redirect URL","URL de redirecionamento",module,Magento_Search
 "ex. http://domain.com","ex. http://dominio.com",module,Magento_Search
 "Display in Suggested Terms","Exibir em termos sugeridos",module,Magento_Search
-"The synonym group has been deleted.","O grupo de sinónimos foi eliminado.",module,Magento_Search
+"The synonym group has been deleted.","O grupo de sinônimos foi eliminado.",module,Magento_Search
 "An error was encountered while performing delete operation.","Foi encontrado um erro ao executar a operação de exclusão.",module,Magento_Search
-"We can't find a synonym group to delete.","Não conseguimos encontrar um grupo de sinónimos para eliminar.",module,Magento_Search
-"This synonyms group no longer exists.","O grupo de sinónimos já não existe maix.",module,Magento_Search
+"We can't find a synonym group to delete.","Não conseguimos encontrar um grupo de sinônimos para eliminar.",module,Magento_Search
+"This synonyms group no longer exists.","O grupo de sinônimos já não existe maix.",module,Magento_Search
 "Edit Synonym Group","Alterar Grupo de Sinônimos",module,Magento_Search
-"Synonym Group","Grupo de Sinónimos",module,Magento_Search
+"Synonym Group","Grupo de Sinônimos",module,Magento_Search
 "Failed to delete %1 synonym group(s).","Falha ao excluir %1 grupo(s) de sinônimos.",module,Magento_Search
-"A total of %1 synonym group(s) have been deleted.","Foi eliminado um total de %1 grupo(s) de sinónimos.",module,Magento_Search
+"A total of %1 synonym group(s) have been deleted.","Foi eliminado um total de %1 grupo(s) de sinônimos.",module,Magento_Search
 "Marketing","Marketing",module,Magento_Search
-"Search synonyms are not supported by the %1 search engine. Any synonyms you enter won't be used.","Os Sinónimos de Pesquisa não são suportados pelo motor de pesquisa %1. Quaisquer sinónimos que informe não serão usados.",module,Magento_Search
-"This synonym group no longer exists.","Este grupo de sinónimos já não existe.",module,Magento_Search
+"Search synonyms are not supported by the %1 search engine. Any synonyms you enter won't be used.","Os Sinônimos de Pesquisa não são suportados pelo motor de pesquisa %1. Quaisquer sinônimos que informe não serão usados.",module,Magento_Search
+"This synonym group no longer exists.","Este grupo de sinônimos já não existe.",module,Magento_Search
 "You saved the synonym group.","Grupo de sinônimos salvo.",module,Magento_Search
-"The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","Os termos que introduziu, (%1), pertencem a 1 grupo de sinónimos existente, %2. Selecione a opção ""Combinar sinónimos existentes"" para que os termos possam ser combinados.",module,Magento_Search
+"The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","Os termos que introduziu, (%1), pertencem a 1 grupo de sinônimos existente, %2. Selecione a opção ""Combinar sinônimos existentes"" para que os termos possam ser combinados.",module,Magento_Search
 "The terms you entered, (%1), belong to %2 existing synonym groups, %3 and %4. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","Os termos que introduziu, (%1), pertencem a %2 grupos de sinônimos existentes, %3 e %4. Selecione a opção ""Combinar sinônimos existentes"" para que os termos possam ser combinados.",module,Magento_Search
 "You deleted the search.","Você excluiu a pesquisa.",module,Magento_Search
 "We can't find a search term to delete.","Não foi possível encontrar um termo de pesquisa a eliminar.",module,Magento_Search
@@ -12435,7 +12435,7 @@ You can set a new expiration date if you wish.",module,Magento_NegotiableQuote
 "Edit","Alterar",module,Magento_Search
 "You can adjust the scope of this synonym group by selecting an option from the list.","Você pode ajustar o escopo deste grupo de sinônimos ao selecionar uma opção da lista.",module,Magento_Search
 "Scope","Escopo",module,Magento_Search
-"Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter shoes,footwear, and user were to search for shoes, the search results will include any product or content with term shoes or footwear.","Lista de sinónimos separada por vírgulas. Os termos inseridos (separados por vírgulas) serão usado numa query OR para pesquisar na loja inteira. Por exemplo, se você escrever sapatos, calçado, e o utilizador procurar por sapatos, os resultados da pesquisa incluirão qualquer produto ou conteúdo com os termos sapatos ou calçado",module,Magento_Search
+"Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter shoes,footwear, and user were to search for shoes, the search results will include any product or content with term shoes or footwear.","Lista de sinônimos separada por vírgulas. Os termos inseridos (separados por vírgulas) serão usado numa query OR para pesquisar na loja inteira. Por exemplo, se você escrever sapatos, calçado, e o utilizador procurar por sapatos, os resultados da pesquisa incluirão qualquer produto ou conteúdo com os termos sapatos ou calçado",module,Magento_Search
 "Synonyms","Sinônimos",module,Magento_Search
 "Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.","Combina automaticamente os sinônimos em grupos que possuem o mesmo escopo. Se selecionar esta opção e adicionar um ou mais dos mesmos termos a diferente grupos de sinônimos do mesmo escopo, os mesmos serão combinados num único grupo. Se não for isto o que deseja, desmarque esta opção e um erro será mostrado ai tentar adicionar os mesmos termos.",module,Magento_Search
 "Store View","Visão de loja",module,Magento_Search
