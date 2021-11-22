@@ -14030,8 +14030,8 @@ Select a different range to add a new Future Update.","Atualização Futura já 
 "The ""%templateName"" template contains an incorrect configuration, with a reference to itself. Remove or change the reference, then try again.","The ""%templateName"" template contains an incorrect configuration, with a reference to itself. Remove or change the reference, then try again.",module,Magento_Theme
 "The config can't be saved because it's empty. Complete the config and try again.","The config can't be saved because it's empty. Complete the config and try again.",module,Magento_Theme
 "View","Visualizar",module,Magento_Theme
-"This is a demo store. No orders will be fulfilled.","This is a demo store. No orders will be fulfilled.",module,Magento_Theme
-"Not all browsers support all these formats!","Not all browsers support all these formats!",module,Magento_Theme
+"This is a demo store. No orders will be fulfilled.","Esta é uma loja de demonstração. Nenhum pedido será entregue.",module,Magento_Theme
+"Not all browsers support all these formats!","Nem todos os navegadores suportam todos os formatos!",module,Magento_Theme
 "ID","Id.",module,Magento_Theme
 "TinyMCE 3 (deprecated)","TinyMCE 3 (deprecated)",module,Magento_Tinymce3
 "Dictionary (Translation on Storefront side)","todos",module,Magento_Translation
